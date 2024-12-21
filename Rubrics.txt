@@ -1,0 +1,39 @@
+
+
+5. Evaluation Rubrics for Part A (Home Page)**
+
+| **Criteria**             | **Max Points** | **Description**                                                                                         |
+|---------------------------|----------------|---------------------------------------------------------------------------------------------------------|
+| **Design and Layout**     | 10             | Header, footer, and main content should be visually appealing and follow a consistent theme.            |
+| **Navigation Functionality** | 10             | All navigation links (e.g., to Posts, About pages) must work correctly.                                 |
+| **Content Clarity**       | 5              | The homepage must have a clear title and a short description of the website.                           |
+| **Responsive Design**     | 5              | The page should adjust properly to different screen sizes (mobile, tablet, desktop).                   |
+
+---
+
+### **6. Evaluation Rubrics for Part B (Posts List Page)**
+
+| **Criteria**                | **Max Points** | **Description**                                                                                           |
+|------------------------------|----------------|-----------------------------------------------------------------------------------------------------------|
+| **Content Structure**        | 10             | Posts are displayed as a clear and organized list (e.g., using `<ul>` or `<div>` with proper spacing).    |
+| **Navigation Functionality** | 10             | Links to the individual posts (Post 1, Post 2, etc.) must be functional.                                  |
+| **Styling and Layout**       | 5              | The posts list should be styled appropriately (e.g., with CSS).                                           |
+| **Responsive Design**        | 5              | The page layout should adjust correctly across various screen sizes.                                      |
+
+---
+
+### **7. Evaluation Rubrics for Part C (Post Page)**
+
+| **Criteria**                | **Max Points** | **Description**                                                                                           |
+|------------------------------|----------------|-----------------------------------------------------------------------------------------------------------|
+| **Content Presentation**     | 10             | The post content (title, body) must be well-presented and clear.                                          |
+| **Navigation Functionality** | 10             | Links to the homepage and posts list must be functional.                                                  |
+| **Consistency**              | 5              | The design should match the style and theme of the Home Page and Posts List Page.                         |
+| **Dynamic Behavior**         | 5              | If JavaScript is used, the post content should dynamically update based on the selected post (optional).  |
+
+---
+
+### How to Use These Rubrics
+- Each rubric evaluates the implementation quality of different aspects of your web pages.
+- Total possible points for each part are **30**.
+- A perfect score indicates a well-designed, functional, and responsive page.
